@@ -7,3 +7,4 @@ config/01 LOGIN DETAILS & PROJECT INFO.txt
 app/01 LOGIN DETAILS & PROJECT INFO.txt
 app/Rule/01 LOGIN DETAILS & PROJECT INFO.txt
 .env
+node_modules/
