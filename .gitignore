@@ -6,5 +6,5 @@ database/01 LOGIN DETAILS & PROJECT INFO.txt
 config/01 LOGIN DETAILS & PROJECT INFO.txt
 app/01 LOGIN DETAILS & PROJECT INFO.txt
 app/Rule/01 LOGIN DETAILS & PROJECT INFO.txt
-.env/
+/.env
 node_modules/
