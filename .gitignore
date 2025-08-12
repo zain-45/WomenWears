@@ -9,3 +9,4 @@ app/Rule/01 LOGIN DETAILS & PROJECT INFO.txt
 .env
 node_modules/
 .idea
+/LICENSE
